@@ -81,20 +81,15 @@ body{
 
 .subheading{
   display: block;
-  font-size: 25px;
+  font-size: 40px;
   width: 100%;
   text-align: center;
-  height: 30px;
+  height: 45px;
 }
 
 
 .hack{
  background-color: rgba(100,70,200,0.9);
- display: block;
- font-size: 25px;
- width: 100%;
- text-align: center;
- height: 30px;
 }
 
 .front{
