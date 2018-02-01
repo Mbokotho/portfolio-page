@@ -50,16 +50,20 @@
   background-color:(rgba(200,40,100,0.8);
   /*background-image: url("");*/
 }
+
 .hack{
  background-color: rgba(100,70,200,0.9); 
 }
+
 .front{
     background-color: rgba(250,100,170,0.9);
 }
+
 .back{
   background-color: rgba(100,200,250,0.9);
   display: block;
 }
+
 .subHeading{
   display: block;
   font-size: 25px;
@@ -67,6 +71,7 @@
   text-align: center;
   height: 30px;
 }
+
 .footer{
 text-align: center;
 width: 100%;
