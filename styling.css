@@ -78,6 +78,16 @@ body{
   /*background-image: url("");*/
 }
 
+
+.subHeading{
+  display: block;
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+  height: 30px;
+}
+
+
 .hack{
  background-color: rgba(100,70,200,0.9); 
 }
@@ -89,14 +99,6 @@ body{
 .back{
   background-color: rgba(100,200,250,0.9);
   display: block;
-}
-
-.subHeading{
-  display: block;
-  font-size: 25px;
-  width: 100%;
-  text-align: center;
-  height: 30px;
 }
 
 .footer{
