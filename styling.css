@@ -39,16 +39,15 @@ body{
 
 .hackDiv{
   background-color: rgba(60,240,70,0.9);
-  display: inline-block;
   width: 20%;
   height: 60px;
-  margin: 1%;
+  margin: 2%;
+  margin-right: 39%;
+  margin-left: 39%;
   background-color: rgba(244, 66, 140,0.9);
   font-size: 20px;
   text-align: center;
   padding-top: 30px;
-  padding-left: 15%;
-  padding-right: 15%;
   border-radius: 200px;
   border-width: medium;
   border-style: solid;
