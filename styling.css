@@ -1,3 +1,9 @@
+body{
+  font-family: monospace;
+  background-color: rgb(22, 124, 92)
+}
+
+
 .headingDiv{
   text-align: center;
   display: block;
@@ -93,7 +99,4 @@ color: white;
 a.bottomLink{
   color: white;
 }
-body{
-  font-family: monospace;
-  background-color: rgb(22, 124, 92)
-}
+
