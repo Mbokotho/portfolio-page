@@ -24,7 +24,6 @@
 }
 .backDiv{
   background-color: rgba(100,200,250,0.9);
-
 }
 
 .sectionContainer{
@@ -47,6 +46,13 @@
   height: 300px;
 }
 
+.hackCont{
+  background-color:(rgba(200,40,100,0.8);
+  /*background-image: url("");*/
+}
+.hack{
+ background-color: rgba(100,70,200,0.9); 
+}
 .front{
     background-color: rgba(250,100,170,0.9);
 }
@@ -69,6 +75,7 @@ font-size: 15px;
 padding-top: 10px;
 color: white;
 }
+
 a.bottomLink{
   color: white;
 }
