@@ -1,6 +1,6 @@
 body{
   font-family: monospace;
-  background-color: rgb(22, 124, 92)
+  background-color: rgb(80, 124, 118);
 }
 
 
@@ -74,7 +74,7 @@ body{
 }
 
 .hackCont{
-  background-color:(rgba(200,40,100,0.8);
+  background-color: rgba(200,40,100,0.8);
   background-image: url("codexsmaller.png");
 }
 
