@@ -81,10 +81,10 @@ body{
 
 .subheading{
   display: block;
-  font-size: 40px;
+  font-size: 35x;
   width: 100%;
   text-align: center;
-  height: 45px;
+  height: 40px;
 }
 
 
@@ -94,16 +94,10 @@ body{
 
 .front{
   background-color: rgba(250,100,170,0.9);
-  display: block;
-  font-size: 25px;
-  width: 100%;
-  text-align: center;
-  height: 30px;
 }
 
 .back{
   background-color: rgba(100,200,250,0.9);
-  display: block;
 }
 
 .footer{
