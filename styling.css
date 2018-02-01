@@ -81,7 +81,8 @@ body{
 
 .subheading{
   display: block;
-  font-size: 35x;
+  font-size: 35px;
+  font-style: bold;
   width: 100%;
   text-align: center;
   height: 40px;
