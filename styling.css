@@ -22,8 +22,17 @@
   border-width: medium;
   border-style: solid;
 }
+
+.frontDiv{
+  background-color: rgba(244, 66, 140,0.9);
+}
+
 .backDiv{
   background-color: rgba(100,200,250,0.9);
+}
+
+.hackDiv{
+  background-color: rgba(60,240,70,0.9);
 }
 
 .sectionContainer{
