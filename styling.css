@@ -89,11 +89,21 @@ body{
 
 
 .hack{
- background-color: rgba(100,70,200,0.9); 
+ background-color: rgba(100,70,200,0.9);
+ display: block;
+ font-size: 25px;
+ width: 100%;
+ text-align: center;
+ height: 30px;
 }
 
 .front{
-    background-color: rgba(250,100,170,0.9);
+  background-color: rgba(250,100,170,0.9);
+  display: block;
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+  height: 30px;
 }
 
 .back{
@@ -106,6 +116,7 @@ text-align: center;
 width: 100%;
 background-color: rgba(20,120,70,0.9);
 font-size: 15px;
+font-family: monospace;
 padding-top: 10px;
 color: white;
 }
